@@ -1,15 +1,15 @@
 <template>
     <Head>
-        <title>Privacy Policy | Tyres Anywhere</title>
-        <meta name="description" content="Tyres Anywhere's Privacy Policy">
-        <link rel="canonical" href="https://tyres-anywhere.co.uk/privacy-policy">
+        <title>Privacy Policy | Tyres GO</title>
+        <meta name="description" content="Tyres GO's Privacy Policy">
+        <link rel="canonical" href="https://tyresgo.com/privacy-policy">
     </Head>
     <Container>
         <div class="border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8">
             <h1 class="sm:text-4xl text-3xl sm:mb-12 mb-6">Privacy Policy</h1>
 
             <p class="text-sm">
-                Tyres Anywhere respects your privacy and is committed to protecting your personal data.
+                Tyres GO respects your privacy and is committed to protecting your personal data.
                 This privacy policy will inform you about what personal data is collected and processed when
                 you visit our website and tell you about the privacy rights you have regarding your data.
             </p>
@@ -20,11 +20,11 @@
             <h3 class="text-2xl">Controller</h3>
             <br>
             <p class="text-sm">
-                Tyres Anywhere LTD is the controller and responsible for your personal data.
+                Tyres GO LTD is the controller and responsible for your personal data.
             </p>
             <br>
             <p class="text-sm">
-                If you have any questions about this privacy notice, please contact the data privacy manager here <a href="mailto:info@tyres-anywhere.co.uk">info@tyres-anywhere.co.uk</a>.
+                If you have any questions about this privacy notice, please contact the data privacy manager here <a href="mailto:info@tyresgo.com">info@tyresgo.com</a>.
             </p>
 
             <br>
@@ -65,7 +65,7 @@
                 <li>
                     <span class="font-semibold">Google Advertising</span> We use Google Adsense to place adverts on our site.
                     Google's use of advertising cookies enables it and its partners to serve ads based on your visit to
-                    Tyres Anywhere LTD and/or other sites on the Internet. You can opt out of personalised ads by visiting
+                    Tyres GO LTD and/or other sites on the Internet. You can opt out of personalised ads by visiting
                     <a
                         class="text-blue-600 underline"
                         href="https://myaccount.google.com/data-and-privacy"

@@ -41,20 +41,13 @@
                                             <Link class="block text-sm w-full py-1 px-4 clear-both text-gray-800 hover:bg-gray-200" href="/commercial-tyres" title="Commercial Tyres">Commercial Tyres</Link>
                                         </div>
                                     </div>
-                                    <div class="lg:w-1/4 w-1/3 px-3">
-                                        <p class="pl-4 text-2xl font-light">Book a Tyre</p>
-                                        <hr class="my-2 border-t-2 border-wheelfit-300/30">
-                                        <div class="space-y-2">
-                                            <Link class="block text-sm w-full py-1 px-4 clear-both text-gray-800 hover:bg-gray-200" href="/search-tyres" title="Search Tyres">Search Tyres</Link>
-                                        </div>
-                                    </div>
                                     <div class="lg:w-1/4 w-1/3 lg:ml-auto px-3">
                                         <p class="pl-4 text-2xl font-light">Need Help?</p>
                                         <hr class="my-2 border-t-2 border-wheelfit-300/30">
                                         <div class="space-y-2">
                                             <Link class="block text-sm w-full py-1 px-4 clear-both text-gray-800 hover:bg-gray-200" href="/contact-us" title="Contact Us">Contact Us</Link>
-                                            <a class="block text-sm w-full py-1 px-4 clear-both text-gray-800 hover:bg-gray-200" href="tel:07510691498">
-                                                07510 691498
+                                            <a class="block text-sm w-full py-1 px-4 clear-both text-gray-800 hover:bg-gray-200" href="tel:07442980101">
+                                                07442 980101
                                             </a>
                                         </div>
                                     </div>
@@ -72,11 +65,11 @@
 
         <!--Mobile Navigation-->
         <div class="md:hidden block w-full flex items-center justify-center relative h-[3.5rem]">
-            <a class="flex items-center color-anim" href="tel:07510 691498">
+            <a class="flex items-center color-anim" href="tel:07442 980101">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
                     <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                 </svg>
-                <span class="text-xl">07510 691498</span>
+                <span class="text-xl">07442 980101</span>
             </a>
             <button @click="toggleMobileNav()" class="menu-btn h-10 w-10 bg-wheelfit-500 hover:bg-wheelfit-400 text-white border-0 outline-0 text-xl flex items-center justify-center transition duration-150 absolute right-2.5 top-1/2 -translate-y-1/2">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">

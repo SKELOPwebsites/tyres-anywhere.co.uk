@@ -1,9 +1,9 @@
 <template>
     <Head>
-        <title>Tyres | Tyres Anywhere</title>
+        <title>Tyres | Tyres GO</title>
         <meta name="description" content="Learn more about your vehicle tyres">
         <meta name="keywords" content="my tyre, tyre size, new tyres, tyre fitting">
-        <link rel="canonical" href="https://tyres-anywhere.co.uk/tyres">
+        <link rel="canonical" href="https://tyresgo.com/tyres">
     </Head>
     <Container>
         <div class="flex md:flex-row flex-col md:pt-12 sm:pt-6 xl:h-[340px] lg:h-[300px] md:h-[280px]">
@@ -65,7 +65,7 @@
                         </p>
                         <br>
                         <p class="text-sm">
-                            Regardless of the vehicle you drive, here at Tyres Anywhere we have the right tyres for you,
+                            Regardless of the vehicle you drive, here at Tyres GO we have the right tyres for you,
                             whether it's Run-flats, 4x4, all-season or just regular tyres, our specialists always choose
                             the most appropriate and best-suited tyre for your car.
                         </p>
@@ -131,7 +131,7 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            <span>To arrange a mobile tyre change or repair, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a></span>
+                            <span>To arrange a mobile tyre change or repair, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a></span>
                         </p>
                     </div>
                 </div>

@@ -1,9 +1,9 @@
 <template>
     <Head>
-        <title>Mobile Tyre Fitting in {{ location }} | Tyres Anywhere</title>
-        <meta name="description" :content="`Mobile Tyre Fitting & Service in ${location}. We fit your tyres at your desired fitting location on the same day of your call! Call us at 07510 691498`">
+        <title>Mobile Tyre Fitting in {{ location }} | Tyres GO</title>
+        <meta name="description" :content="`Mobile Tyre Fitting & Service in ${location}. We fit your tyres at your desired fitting location on the same day of your call! Call us at 07442 980101`">
         <meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair">
-        <link rel="canonical" :href="'https://tyres-anywhere.co.uk/locations/'+slug">
+        <link rel="canonical" :href="'https://tyresgo.com/locations/'+slug">
     </Head>
     <Container>
         <div class="flex md:flex-row flex-col md:pt-12 sm:pt-6 xl:h-[340px] lg:h-[300px] md:h-[280px]">
@@ -23,7 +23,7 @@
                 <h1 class="font-montserrat font-extrabold md:text-4xl sm:text-2xl text-xl mb-2 uppercase">Mobile Tyre Fitting & Services in {{ location }}</h1>
                 <h2 class="md:text-xl sm:text-lg text-base mb-10">We bring our mobile services right to your location.</h2>
                 <p class="text-sm">
-                    <b>Tyres Anywhere</b> is a well-rounded and a prominent mobile tyre services business in United Kingdom.
+                    <b>Tyres GO</b> is a well-rounded and a prominent mobile tyre services business in United Kingdom.
                     Our tyre fitters are well equipped with experience and knowledge in the tyre fitting and tyre repairs section,
                     and we are positive we can solve your problem quickly. Our mobile tyre fitting van will meet you at your desired location,
                     whether your at home, work, roadside or on the hard-shoulder.
@@ -39,7 +39,7 @@
                         </p>
                         <br>
                         <p class="text-sm">
-                            To order a same day service, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a>
+                            To order a same day service, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a>
                         </p>
                         <br>
                         <p class="text-sm">Information you may be asked for:</p>
@@ -62,7 +62,7 @@
                         </p>
                         <br>
                         <p class="text-sm">
-                            To call us out, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a>
+                            To call us out, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a>
                         </p>
                         <br>
                         <p class="text-sm">Information you may be asked for:</p>
@@ -82,7 +82,7 @@
                         </p>
                         <br>
                         <p class="text-sm">
-                            That's why at <b>Tyres Anywhere</b> we bring the expertise of a garage right to your chosen location.
+                            That's why at <b>Tyres GO</b> we bring the expertise of a garage right to your chosen location.
                             We can fit your new tyres within minutes of your call, or at a time you decide to get your vehicle back on the road safely.
                             We fit budget, mid-range or premium tyres of all major brands and sizes.
                         </p>

@@ -1,9 +1,9 @@
 <template>
     <Head>
-        <title>Mobile Tyre Fitting | Van & Car Mobile Tyres | Tyres Anywhere</title>
-        <meta name="description" content="TyresAnywhere provides convenient mobile tyre fitting and will fit your tyres at home, work, roadside or even motorways!">
+        <title>Mobile Tyre Fitting | Van & Car Mobile Tyres | Tyres GO</title>
+        <meta name="description" content="Tyres GO provides convenient mobile tyre fitting and will fit your tyres at home, work, roadside or even motorways!">
         <meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair">
-        <link rel="canonical" href="https://tyres-anywhere.co.uk/mobile-tyre-fitting">
+        <link rel="canonical" href="https://tyresgo.com/mobile-tyre-fitting">
     </Head>
 
     <Container>
@@ -55,7 +55,7 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a> for a prompt service</span>
+                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a> for a prompt service</span>
                         </p>
                         <br>
                         <p class="text-sm">For emergency or non-emergency situations, our mobile tyre fitting service is a more convenient solution for your requirement.</p>
@@ -73,7 +73,7 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a></span>
+                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a></span>
                         </p>
                         <br>
                         <p class="text-sm">For emergency or non-emergency situations, our mobile tyre fitting service is a more convenient solution for your requirement.</p>
@@ -99,7 +99,7 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a></span>
+                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a></span>
                         </p>
                         <br>
                         <p class="text-sm">Before you call, have ready your:</p>
@@ -111,7 +111,7 @@
                     <div class="col-span-6 lg:p-4">
                         <h2 class="lg:text-3xl text-2xl font-semibold">Non-emergency Mobile Tyre Fitting</h2>
                         <br>
-                        <p class="text-sm">You and your vehicle's safety is our top priority at <b>Tyres Anywhere</b>.</p>
+                        <p class="text-sm">You and your vehicle's safety is our top priority at <b>Tyres GO</b>.</p>
                         <br>
                         <p class="text-sm">
                             If your vehicle is sitting on your driveway with worn or damaged tyres,
@@ -127,7 +127,7 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a></span>
+                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a></span>
                         </p>
                     </div>
                     <div class="col-span-6 lg:p-4">

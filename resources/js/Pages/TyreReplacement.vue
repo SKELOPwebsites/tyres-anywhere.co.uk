@@ -1,9 +1,9 @@
 <template>
     <Head>
-        <title>Tyre Replacement | Tyres Anywhere</title>
+        <title>Tyre Replacement | Tyres GO</title>
         <meta name="description" content="24/7 Mobile tyre replacement couldn't be easier! Call us now to grab yourself a brand new high quality tyre - fitted wherever you are!">
         <meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre">
-        <link rel="canonical" href="https://tyres-anywhere.co.uk/tyre-replacement">
+        <link rel="canonical" href="https://tyresgo.com/tyre-replacement">
     </Head>
     <Container>
         <div class="flex md:flex-row flex-col md:pt-12 sm:pt-6 xl:h-[340px] lg:h-[300px] md:h-[280px]">
@@ -54,7 +54,7 @@
                         <h2 class="lg:text-3xl text-2xl font-light">Need to get your tyres changed?</h2>
                         <br>
                         <p class="text-sm">
-                            Have faulty tyres and want to replace them? At <b>Tyres Anywhere</b> we provide easy alternative to going to repair your tyres at a mechanic.
+                            Have faulty tyres and want to replace them? At <b>Tyres GO</b> we provide easy alternative to going to repair your tyres at a mechanic.
                             Our Mobile Tyre Fitting Service will bring the mechanic to you, whether you're at home, stuck on a motorway or anywhere else,
                             you can call us and expect one of our specialists to be with you soon.
                         </p>

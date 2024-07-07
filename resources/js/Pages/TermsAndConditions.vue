@@ -1,21 +1,21 @@
 <template>
     <Head>
-        <title>Terms and Conditions | Tyres Anywhere</title>
-        <meta name="description" content="Tyres Anywhere, Terms &amp; Conditions">
+        <title>Terms and Conditions | Tyres GO</title>
+        <meta name="description" content="Tyres GO, Terms &amp; Conditions">
         <meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre">
-        <link rel="canonical" href="https://tyres-anywhere.co.uk/our-terms-and-conditions">
+        <link rel="canonical" href="https://tyresgo.com/our-terms-and-conditions">
     </Head>
     <Container>
         <div class="border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8">
             <h1 class="sm:text-4xl text-3xl sm:mb-12 mb-6">Terms & Conditions</h1>
 
             <p class="text-sm">
-                Tyres Anywhere is a mobile tyre fitting business in the UK that provides emergency or non-emergency
-                tyre fitting or repairs. Contact information is as followed: telephone: (07510 691498), email: (info@tyres-anywhere.co.uk)
+                Tyres GO is a mobile tyre fitting business in the UK that provides emergency or non-emergency
+                tyre fitting or repairs. Contact information is as followed: telephone: (07442 980101), email: (info@tyresgo.com)
             </p>
             <br>
             <p class="text-sm">
-                The terms and conditions declared on this page control the bond within the company Tyres Anywhere LTD and the visitors.
+                The terms and conditions declared on this page control the bond within the company Tyres GO LTD and the visitors.
             </p>
             <br>
             <p class="text-sm">
@@ -23,11 +23,11 @@
             </p>
             <br>
             <p class="text-sm">
-                "We", "Our", or "Us" represents the company Tyres Anywhere
+                "We", "Our", or "Us" represents the company Tyres GO
             </p>
             <br>
             <p class="text-sm">
-                "Our website" represents the website of https://www.tyres-anywhere.co.uk
+                "Our website" represents the website of https://www.tyresgo.com
             </p>
             <br>
             <p class="text-sm">
@@ -40,11 +40,11 @@
             <h3 class="text-2xl">1. How to contact us</h3>
             <br>
             <p class="text-sm">
-                Call us on 07510 691498
+                Call us on 07442 980101
             </p>
             <br>
             <p class="text-sm">
-                Email at info@tyres-anywhere.co.uk
+                Email at info@tyresgo.com
             </p>
             <br>
             <p class="text-sm">

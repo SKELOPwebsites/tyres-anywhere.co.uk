@@ -1,8 +1,8 @@
 <template>
     <Head>
-        <title>Contact Us | Tyres Anywhere</title>
-        <meta name="description" content="Need to contact the team? We're always available! Fill out the short form on this page or call us at 07510 691498">
-        <link rel="canonical" href="">
+        <title>Contact Us | Tyres GO</title>
+        <meta name="description" content="Need to contact the team? We're always available! Fill out the short form on this page or call us at 07442 980101">
+        <link rel="canonical" href="https://tyresgo.com/contact-us">
     </Head>
     <Container>
         <div class="flex md:flex-row flex-col md:pt-12 sm:pt-6 xl:h-[340px] lg:h-[300px] md:h-[280px]">
@@ -39,7 +39,7 @@
             </div>
             <div v-if="!$page.props.success" class="mb-6">
                 <p class="text-4xl font-light mb-2">Contact Us</p>
-                <p class="text-sm">Contact us by giving us a call on <a class="underline font-semibold" href="tel:07510691498">07510 691498</a>, or by filling out the form below.</p>
+                <p class="text-sm">Contact us by giving us a call on <a class="underline font-semibold" href="tel:07442980101">07442 980101</a>, or by filling out the form below.</p>
             </div>
 
             <div class="w-full md:grid md:grid-cols-12 flex flex-col-reverse">
@@ -94,8 +94,8 @@
                     </form>
                 </div>
                 <div class="lg:col-span-6 md:col-span-5 xl:pl-24 lg:pl-16 md:pl-4">
-                    <p class="xl:text-3xl lg:text-2xl text-xl text-gray-600 md:mb-6 mb-2">Tel: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="tel:07510691498">07510 691498</a></p>
-                    <p class="xl:text-3xl lg:text-2xl text-xl text-gray-600">Email: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="mailto:info@tyres-anywhere.co.uk">info@tyres-anywhere.co.uk</a></p>
+                    <p class="xl:text-3xl lg:text-2xl text-xl text-gray-600 md:mb-6 mb-2">Tel: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="tel:07442980101">07442 980101</a></p>
+                    <p class="xl:text-3xl lg:text-2xl text-xl text-gray-600">Email: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="mailto:info@tyresgo.com">info@tyresgo.com</a></p>
                 </div>
             </div>
         </div>

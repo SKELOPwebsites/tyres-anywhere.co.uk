@@ -1580,7 +1580,7 @@ const _sfc_main$a = {
               }
               _push2(`</div><div class="flex items-center justify-end"${_scopeId}><button type="submit" class="bg-blue-500 py-1.5 px-4 font-semibold text-white rounded uppercase hover:bg-blue-600 active:ring-2 transition duration-150 ease-in-out"${_scopeId}> Send message </button></div></form>`);
             }
-            _push2(`</div><div class="lg:col-span-6 md:col-span-5 xl:pl-24 lg:pl-16 md:pl-4"${_scopeId}><p class="xl:text-3xl lg:text-2xl text-xl text-gray-600 md:mb-6 mb-2"${_scopeId}>Tel: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="tel:07442980101"${_scopeId}>07442 980101</a></p><p class="xl:text-3xl lg:text-2xl text-xl text-gray-600"${_scopeId}>Email: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="mailto:info@tyresanywhere.com"${_scopeId}>info@tyresanywhere.com</a></p></div></div></div>`);
+            _push2(`</div><div class="lg:col-span-6 md:col-span-5 xl:pl-24 lg:pl-16 md:pl-4"${_scopeId}><p class="xl:text-3xl lg:text-2xl text-xl text-gray-600 md:mb-6 mb-2"${_scopeId}>Tel: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="tel:07442980101"${_scopeId}>07442 980101</a></p><p class="xl:text-3xl lg:text-2xl text-xl text-gray-600"${_scopeId}>Email: <a class="text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out" href="mailto:info@tyres-anywhere.co.uk"${_scopeId}>info@tyres-anywhere.co.uk</a></p></div></div></div>`);
           } else {
             return [
               createVNode("div", { class: "px-3" }, [
@@ -1768,8 +1768,8 @@ const _sfc_main$a = {
                       createTextVNode("Email: "),
                       createVNode("a", {
                         class: "text-blue-700 hover:text-cyan-500 transition duration-300 ease-in-out",
-                        href: "mailto:info@tyresanywhere.com"
-                      }, "info@tyresanywhere.com")
+                        href: "mailto:info@tyres-anywhere.co.uk"
+                      }, "info@tyres-anywhere.co.uk")
                     ])
                   ])
                 ])
@@ -1802,7 +1802,7 @@ const _sfc_main$9 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>24hr Same Day Mobile Tyre Fitting &amp; Services | Car &amp; Van Tyres Fitted at Home, Work or Roadside | Tyres Anywhere</title><meta name="description" content="We provide 24/7 Mobile Tyre Fitting &amp; Services and fit your tyre on the same day of your call."${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/"${_scopeId}>`);
+            _push2(`<title${_scopeId}>24hr Same Day Mobile Tyre Fitting &amp; Services | Car &amp; Van Tyres Fitted at Home, Work or Roadside | Tyres Anywhere</title><meta name="description" content="We provide 24/7 Mobile Tyre Fitting &amp; Services and fit your tyre on the same day of your call."${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "24hr Same Day Mobile Tyre Fitting & Services | Car & Van Tyres Fitted at Home, Work or Roadside | Tyres Anywhere"),
@@ -1816,7 +1816,7 @@ const _sfc_main$9 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/"
+                href: "https://tyres-anywhere.co.uk/"
               })
             ];
           }
@@ -2130,7 +2130,7 @@ const _sfc_main$8 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Mobile Tyre Fitting in ${ssrInterpolate(__props.location)} | Tyres Anywhere</title><meta name="description"${ssrRenderAttr("content", `Mobile Tyre Fitting & Service in ${__props.location}. We fit your tyres at your desired fitting location on the same day of your call! Call us at 07442 980101`)}${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical"${ssrRenderAttr("href", "https://tyresanywhere.co.uk/locations/" + __props.slug)}${_scopeId}>`);
+            _push2(`<title${_scopeId}>Mobile Tyre Fitting in ${ssrInterpolate(__props.location)} | Tyres Anywhere</title><meta name="description"${ssrRenderAttr("content", `Mobile Tyre Fitting & Service in ${__props.location}. We fit your tyres at your desired fitting location on the same day of your call! Call us at 07442 980101`)}${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical"${ssrRenderAttr("href", "https://tyres-anywhere.co.uk/locations/" + __props.slug)}${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Mobile Tyre Fitting in " + toDisplayString(__props.location) + " | Tyres Anywhere", 1),
@@ -2144,7 +2144,7 @@ const _sfc_main$8 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/locations/" + __props.slug
+                href: "https://tyres-anywhere.co.uk/locations/" + __props.slug
               }, null, 8, ["href"])
             ];
           }
@@ -2448,7 +2448,7 @@ const _sfc_main$7 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Mobile Tyre Fitting | Van &amp; Car Mobile Tyres | Tyres Anywhere</title><meta name="description" content="TyresAnywhere provides convenient mobile tyre fitting and will fit your tyres at home, work, roadside or even motorways!"${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/mobile-tyre-fitting"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Mobile Tyre Fitting | Van &amp; Car Mobile Tyres | Tyres Anywhere</title><meta name="description" content="TyresAnywhere provides convenient mobile tyre fitting and will fit your tyres at home, work, roadside or even motorways!"${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/mobile-tyre-fitting"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Mobile Tyre Fitting | Van & Car Mobile Tyres | Tyres Anywhere"),
@@ -2462,7 +2462,7 @@ const _sfc_main$7 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/mobile-tyre-fitting"
+                href: "https://tyres-anywhere.co.uk/mobile-tyre-fitting"
               })
             ];
           }
@@ -2902,7 +2902,7 @@ const _sfc_main$6 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Same Day Mobile Tyre Repair | Tyres Anywhere</title><meta name="description" content="Our mobile tyre repair service ensures your punctured tyre is taken care of by our professional tyre fitters at the location of your choice, AND on the same day!"${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/mobile-tyre-repair"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Same Day Mobile Tyre Repair | Tyres Anywhere</title><meta name="description" content="Our mobile tyre repair service ensures your punctured tyre is taken care of by our professional tyre fitters at the location of your choice, AND on the same day!"${_scopeId}><meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/mobile-tyre-repair"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Same Day Mobile Tyre Repair | Tyres Anywhere"),
@@ -2916,7 +2916,7 @@ const _sfc_main$6 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/mobile-tyre-repair"
+                href: "https://tyres-anywhere.co.uk/mobile-tyre-repair"
               })
             ];
           }
@@ -3130,7 +3130,7 @@ const _sfc_main$5 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Privacy Policy | Tyres Anywhere</title><meta name="description" content="Tyres Anywhere&#39;s Privacy Policy"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/privacy-policy"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Privacy Policy | Tyres Anywhere</title><meta name="description" content="Tyres Anywhere&#39;s Privacy Policy"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/privacy-policy"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Privacy Policy | Tyres Anywhere"),
@@ -3140,7 +3140,7 @@ const _sfc_main$5 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/privacy-policy"
+                href: "https://tyres-anywhere.co.uk/privacy-policy"
               })
             ];
           }
@@ -3150,7 +3150,7 @@ const _sfc_main$5 = {
       _push(ssrRenderComponent(Container, null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8"${_scopeId}><h1 class="sm:text-4xl text-3xl sm:mb-12 mb-6"${_scopeId}>Privacy Policy</h1><p class="text-sm"${_scopeId}> Tyres Anywhere respects your privacy and is committed to protecting your personal data. This privacy policy will inform you about what personal data is collected and processed when you visit our website and tell you about the privacy rights you have regarding your data. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Controller</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Tyres Anywhere LTD is the controller and responsible for your personal data. </p><br${_scopeId}><p class="text-sm"${_scopeId}> If you have any questions about this privacy notice, please contact the data privacy manager here <a href="mailto:info@tyresanywhere.com"${_scopeId}>info@tyresanywhere.com</a>. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Third-party links</h3><br${_scopeId}><p class="text-sm"${_scopeId}> This website may include links to third-party websites. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Cookies</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Cookies are set by the services that we use: </p><br${_scopeId}><ul class="pl-4 text-sm list-disc space-y-2"${_scopeId}><li${_scopeId}><span class="font-semibold"${_scopeId}>Google Analytics</span> we use Google Analytics to get performance data and tracking our website traffic. For more information, please visit <a class="text-blue-600 underline" href="https://policies.google.com/technologies/cookies?hl=en-US" target="_blank" rel="noreferrer"${_scopeId}> https://policies.google.com/technologies/cookies?hl=en-US </a></li><li${_scopeId}><span class="font-semibold"${_scopeId}>Google Advertising</span> We use Google Adsense to place adverts on our site. Google&#39;s use of advertising cookies enables it and its partners to serve ads based on your visit to Tyres Anywhere LTD and/or other sites on the Internet. You can opt out of personalised ads by visiting <a class="text-blue-600 underline" href="https://myaccount.google.com/data-and-privacy" target="_blank" rel="noreferrer"${_scopeId}> https://myaccount.google.com/data-and-privacy </a></li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>The type of personal information we collect</h3><br${_scopeId}><p class="text-sm"${_scopeId}> We currently collect and process the following information: </p><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}><span class="font-semibold"${_scopeId}>Identity data</span> (for example first name, last name, title, date of birth)</li><li${_scopeId}><span class="font-semibold"${_scopeId}>Contact data</span> (for example address, email address, mobile number)</li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>How is the personal information collected?</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Most of the personal information we process is directly provided by you for the following reasons: </p><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}>apply for services</li><li${_scopeId}>make an enquiry</li><li${_scopeId}>book an appointment</li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>How we use your personal data</h3><br${_scopeId}><p class="text-sm"${_scopeId}> We only use your personal data when the law allows us to. We will mostly use your personal data in the following circumstances. </p><br${_scopeId}><b class="text-sm"${_scopeId}>Information provided by you:</b><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}>to provide you with information/services that you request from us</li><li${_scopeId}>to comply with a legal or regulatory obligation</li></ul><br${_scopeId}><b class="text-sm"${_scopeId}>Information we automatically collect:</b><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}>to administer our site including troubleshooting, testing, research and statistical purposes</li><li${_scopeId}>to improve our site to ensure that content is presented in the most effective manner for you and your computer</li><li${_scopeId}>to keep our site safe and secure</li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Where is your data stored?</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Your information is securely stored in our database </p><br${_scopeId}><p class="text-sm"${_scopeId}> We keep personal data that you provide us, such as contact details, for as long as it is compulsory for us to do. We will then safely dispose your information by deleting the records from our database. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Your data protection rights</h3><br${_scopeId}><p class="text-sm"${_scopeId}> For details, see our `);
+            _push2(`<div class="border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8"${_scopeId}><h1 class="sm:text-4xl text-3xl sm:mb-12 mb-6"${_scopeId}>Privacy Policy</h1><p class="text-sm"${_scopeId}> Tyres Anywhere respects your privacy and is committed to protecting your personal data. This privacy policy will inform you about what personal data is collected and processed when you visit our website and tell you about the privacy rights you have regarding your data. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Controller</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Tyres Anywhere LTD is the controller and responsible for your personal data. </p><br${_scopeId}><p class="text-sm"${_scopeId}> If you have any questions about this privacy notice, please contact the data privacy manager here <a href="mailto:info@tyres-anywhere.co.uk"${_scopeId}>info@tyres-anywhere.co.uk</a>. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Third-party links</h3><br${_scopeId}><p class="text-sm"${_scopeId}> This website may include links to third-party websites. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Cookies</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Cookies are set by the services that we use: </p><br${_scopeId}><ul class="pl-4 text-sm list-disc space-y-2"${_scopeId}><li${_scopeId}><span class="font-semibold"${_scopeId}>Google Analytics</span> we use Google Analytics to get performance data and tracking our website traffic. For more information, please visit <a class="text-blue-600 underline" href="https://policies.google.com/technologies/cookies?hl=en-US" target="_blank" rel="noreferrer"${_scopeId}> https://policies.google.com/technologies/cookies?hl=en-US </a></li><li${_scopeId}><span class="font-semibold"${_scopeId}>Google Advertising</span> We use Google Adsense to place adverts on our site. Google&#39;s use of advertising cookies enables it and its partners to serve ads based on your visit to Tyres Anywhere LTD and/or other sites on the Internet. You can opt out of personalised ads by visiting <a class="text-blue-600 underline" href="https://myaccount.google.com/data-and-privacy" target="_blank" rel="noreferrer"${_scopeId}> https://myaccount.google.com/data-and-privacy </a></li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>The type of personal information we collect</h3><br${_scopeId}><p class="text-sm"${_scopeId}> We currently collect and process the following information: </p><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}><span class="font-semibold"${_scopeId}>Identity data</span> (for example first name, last name, title, date of birth)</li><li${_scopeId}><span class="font-semibold"${_scopeId}>Contact data</span> (for example address, email address, mobile number)</li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>How is the personal information collected?</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Most of the personal information we process is directly provided by you for the following reasons: </p><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}>apply for services</li><li${_scopeId}>make an enquiry</li><li${_scopeId}>book an appointment</li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>How we use your personal data</h3><br${_scopeId}><p class="text-sm"${_scopeId}> We only use your personal data when the law allows us to. We will mostly use your personal data in the following circumstances. </p><br${_scopeId}><b class="text-sm"${_scopeId}>Information provided by you:</b><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}>to provide you with information/services that you request from us</li><li${_scopeId}>to comply with a legal or regulatory obligation</li></ul><br${_scopeId}><b class="text-sm"${_scopeId}>Information we automatically collect:</b><br${_scopeId}><ul class="pl-4 text-sm list-disc"${_scopeId}><li${_scopeId}>to administer our site including troubleshooting, testing, research and statistical purposes</li><li${_scopeId}>to improve our site to ensure that content is presented in the most effective manner for you and your computer</li><li${_scopeId}>to keep our site safe and secure</li></ul><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Where is your data stored?</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Your information is securely stored in our database </p><br${_scopeId}><p class="text-sm"${_scopeId}> We keep personal data that you provide us, such as contact details, for as long as it is compulsory for us to do. We will then safely dispose your information by deleting the records from our database. </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>Your data protection rights</h3><br${_scopeId}><p class="text-sm"${_scopeId}> For details, see our `);
             _push2(ssrRenderComponent(unref(Link), {
               class: "text-blue-600 underline",
               href: "/privacy-policy"
@@ -3180,7 +3180,7 @@ const _sfc_main$5 = {
                 createVNode("br"),
                 createVNode("p", { class: "text-sm" }, [
                   createTextVNode(" If you have any questions about this privacy notice, please contact the data privacy manager here "),
-                  createVNode("a", { href: "mailto:info@tyresanywhere.com" }, "info@tyresanywhere.com"),
+                  createVNode("a", { href: "mailto:info@tyres-anywhere.co.uk" }, "info@tyres-anywhere.co.uk"),
                   createTextVNode(". ")
                 ]),
                 createVNode("br"),
@@ -3345,7 +3345,7 @@ const _sfc_main$4 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Puncture Repair | Tyres Anywhere</title><meta name="description" content="Mobile puncture repair could never be easier! We come and repair your tyre whether your at home, work or even roadside."${_scopeId}><meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/puncture-repair"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Puncture Repair | Tyres Anywhere</title><meta name="description" content="Mobile puncture repair could never be easier! We come and repair your tyre whether your at home, work or even roadside."${_scopeId}><meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/puncture-repair"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Puncture Repair | Tyres Anywhere"),
@@ -3359,7 +3359,7 @@ const _sfc_main$4 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/puncture-repair"
+                href: "https://tyres-anywhere.co.uk/puncture-repair"
               })
             ];
           }
@@ -3583,7 +3583,7 @@ const _sfc_main$3 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Sitemap | Tyres Anywhere</title><meta name="description" content="A Sitemap that includes all the possible pages from Tyres Anywhere"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/sitemap"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Sitemap | Tyres Anywhere</title><meta name="description" content="A Sitemap that includes all the possible pages from Tyres Anywhere"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/sitemap"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Sitemap | Tyres Anywhere"),
@@ -3593,7 +3593,7 @@ const _sfc_main$3 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/sitemap"
+                href: "https://tyres-anywhere.co.uk/sitemap"
               })
             ];
           }
@@ -3893,7 +3893,7 @@ const _sfc_main$2 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Terms and Conditions | Tyres Anywhere</title><meta name="description" content="Tyres Anywhere, Terms &amp; Conditions"${_scopeId}><meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/our-terms-and-conditions"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Terms and Conditions | Tyres Anywhere</title><meta name="description" content="Tyres Anywhere, Terms &amp; Conditions"${_scopeId}><meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/our-terms-and-conditions"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Terms and Conditions | Tyres Anywhere"),
@@ -3907,7 +3907,7 @@ const _sfc_main$2 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/our-terms-and-conditions"
+                href: "https://tyres-anywhere.co.uk/our-terms-and-conditions"
               })
             ];
           }
@@ -3917,7 +3917,7 @@ const _sfc_main$2 = {
       _push(ssrRenderComponent(Container, null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<div class="border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8"${_scopeId}><h1 class="sm:text-4xl text-3xl sm:mb-12 mb-6"${_scopeId}>Terms &amp; Conditions</h1><p class="text-sm"${_scopeId}> Tyres Anywhere is a mobile tyre fitting business in the UK that provides emergency or non-emergency tyre fitting or repairs. Contact information is as followed: telephone: (07442 980101), email: (info@tyresanywhere.com) </p><br${_scopeId}><p class="text-sm"${_scopeId}> The terms and conditions declared on this page control the bond within the company Tyres Anywhere LTD and the visitors. </p><br${_scopeId}><p class="text-sm"${_scopeId}> Henceforth, </p><br${_scopeId}><p class="text-sm"${_scopeId}> &quot;We&quot;, &quot;Our&quot;, or &quot;Us&quot; represents the company Tyres Anywhere </p><br${_scopeId}><p class="text-sm"${_scopeId}> &quot;Our website&quot; represents the website of https://www.tyresanywhere.co.uk </p><br${_scopeId}><p class="text-sm"${_scopeId}> &quot;You&quot; represents our customers or visitors/users of this website </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>1. How to contact us</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Call us on 07442 980101 </p><br${_scopeId}><p class="text-sm"${_scopeId}> Email at info@tyresanywhere.com </p><br${_scopeId}><p class="text-sm"${_scopeId}> Contact us through our website&#39;s `);
+            _push2(`<div class="border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8"${_scopeId}><h1 class="sm:text-4xl text-3xl sm:mb-12 mb-6"${_scopeId}>Terms &amp; Conditions</h1><p class="text-sm"${_scopeId}> Tyres Anywhere is a mobile tyre fitting business in the UK that provides emergency or non-emergency tyre fitting or repairs. Contact information is as followed: telephone: (07442 980101), email: (info@tyres-anywhere.co.uk) </p><br${_scopeId}><p class="text-sm"${_scopeId}> The terms and conditions declared on this page control the bond within the company Tyres Anywhere LTD and the visitors. </p><br${_scopeId}><p class="text-sm"${_scopeId}> Henceforth, </p><br${_scopeId}><p class="text-sm"${_scopeId}> &quot;We&quot;, &quot;Our&quot;, or &quot;Us&quot; represents the company Tyres Anywhere </p><br${_scopeId}><p class="text-sm"${_scopeId}> &quot;Our website&quot; represents the website of https://www.tyres-anywhere.co.uk </p><br${_scopeId}><p class="text-sm"${_scopeId}> &quot;You&quot; represents our customers or visitors/users of this website </p><br${_scopeId}><br${_scopeId}><h3 class="text-2xl"${_scopeId}>1. How to contact us</h3><br${_scopeId}><p class="text-sm"${_scopeId}> Call us on 07442 980101 </p><br${_scopeId}><p class="text-sm"${_scopeId}> Email at info@tyres-anywhere.co.uk </p><br${_scopeId}><p class="text-sm"${_scopeId}> Contact us through our website&#39;s `);
             _push2(ssrRenderComponent(unref(Link), {
               class: "text-blue-600 underline",
               href: "/contact-us"
@@ -3954,7 +3954,7 @@ const _sfc_main$2 = {
             return [
               createVNode("div", { class: "border-x border-gray-300 sm:px-8 px-4 pt-8 pb-8" }, [
                 createVNode("h1", { class: "sm:text-4xl text-3xl sm:mb-12 mb-6" }, "Terms & Conditions"),
-                createVNode("p", { class: "text-sm" }, " Tyres Anywhere is a mobile tyre fitting business in the UK that provides emergency or non-emergency tyre fitting or repairs. Contact information is as followed: telephone: (07442 980101), email: (info@tyresanywhere.com) "),
+                createVNode("p", { class: "text-sm" }, " Tyres Anywhere is a mobile tyre fitting business in the UK that provides emergency or non-emergency tyre fitting or repairs. Contact information is as followed: telephone: (07442 980101), email: (info@tyres-anywhere.co.uk) "),
                 createVNode("br"),
                 createVNode("p", { class: "text-sm" }, " The terms and conditions declared on this page control the bond within the company Tyres Anywhere LTD and the visitors. "),
                 createVNode("br"),
@@ -3962,7 +3962,7 @@ const _sfc_main$2 = {
                 createVNode("br"),
                 createVNode("p", { class: "text-sm" }, ' "We", "Our", or "Us" represents the company Tyres Anywhere '),
                 createVNode("br"),
-                createVNode("p", { class: "text-sm" }, ' "Our website" represents the website of https://www.tyresanywhere.co.uk '),
+                createVNode("p", { class: "text-sm" }, ' "Our website" represents the website of https://www.tyres-anywhere.co.uk '),
                 createVNode("br"),
                 createVNode("p", { class: "text-sm" }, ' "You" represents our customers or visitors/users of this website '),
                 createVNode("br"),
@@ -3971,7 +3971,7 @@ const _sfc_main$2 = {
                 createVNode("br"),
                 createVNode("p", { class: "text-sm" }, " Call us on 07442 980101 "),
                 createVNode("br"),
-                createVNode("p", { class: "text-sm" }, " Email at info@tyresanywhere.com "),
+                createVNode("p", { class: "text-sm" }, " Email at info@tyres-anywhere.co.uk "),
                 createVNode("br"),
                 createVNode("p", { class: "text-sm" }, [
                   createTextVNode(" Contact us through our website's "),
@@ -4087,7 +4087,7 @@ const _sfc_main$1 = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Tyre Replacement | Tyres Anywhere</title><meta name="description" content="24/7 Mobile tyre replacement couldn&#39;t be easier! Call us now to grab yourself a brand new high quality tyre - fitted wherever you are!"${_scopeId}><meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/tyre-replacement"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Tyre Replacement | Tyres Anywhere</title><meta name="description" content="24/7 Mobile tyre replacement couldn&#39;t be easier! Call us now to grab yourself a brand new high quality tyre - fitted wherever you are!"${_scopeId}><meta name="keywords" content="tyre fitting, mobile tyre fitting, tyre services, repair my tyre"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/tyre-replacement"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Tyre Replacement | Tyres Anywhere"),
@@ -4101,7 +4101,7 @@ const _sfc_main$1 = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/tyre-replacement"
+                href: "https://tyres-anywhere.co.uk/tyre-replacement"
               })
             ];
           }
@@ -4351,7 +4351,7 @@ const _sfc_main = {
       _push(ssrRenderComponent(unref(Head), null, {
         default: withCtx((_, _push2, _parent2, _scopeId) => {
           if (_push2) {
-            _push2(`<title${_scopeId}>Tyres | Tyres Anywhere</title><meta name="description" content="Learn more about your vehicle tyres"${_scopeId}><meta name="keywords" content="my tyre, tyre size, new tyres, tyre fitting"${_scopeId}><link rel="canonical" href="https://tyresanywhere.co.uk/tyres"${_scopeId}>`);
+            _push2(`<title${_scopeId}>Tyres | Tyres Anywhere</title><meta name="description" content="Learn more about your vehicle tyres"${_scopeId}><meta name="keywords" content="my tyre, tyre size, new tyres, tyre fitting"${_scopeId}><link rel="canonical" href="https://tyres-anywhere.co.uk/tyres"${_scopeId}>`);
           } else {
             return [
               createVNode("title", null, "Tyres | Tyres Anywhere"),
@@ -4365,7 +4365,7 @@ const _sfc_main = {
               }),
               createVNode("link", {
                 rel: "canonical",
-                href: "https://tyresanywhere.co.uk/tyres"
+                href: "https://tyres-anywhere.co.uk/tyres"
               })
             ];
           }

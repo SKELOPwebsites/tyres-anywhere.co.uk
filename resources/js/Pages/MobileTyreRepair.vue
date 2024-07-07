@@ -1,9 +1,9 @@
 <template>
     <Head>
-        <title>Same Day Mobile Tyre Repair | Tyres Anywhere</title>
+        <title>Same Day Mobile Tyre Repair | Tyres GO</title>
         <meta name="description" content="Our mobile tyre repair service ensures your punctured tyre is taken care of by our professional tyre fitters at the location of your choice, AND on the same day!">
         <meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair">
-        <link rel="canonical" href="https://tyres-anywhere.co.uk/mobile-tyre-repair">
+        <link rel="canonical" href="https://tyresgo.com/mobile-tyre-repair">
     </Head>
     <Container>
         <div class="flex md:flex-row flex-col md:pt-12 sm:pt-6 xl:h-[340px] lg:h-[300px] md:h-[280px]">

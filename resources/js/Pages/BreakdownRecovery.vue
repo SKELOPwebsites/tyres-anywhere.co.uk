@@ -1,8 +1,8 @@
 <template>
     <Head>
-        <title>24Hr Breakdown Recovery & Assistance | Tyres Anywhere</title>
+        <title>24Hr Breakdown Recovery & Assistance | Tyres GO</title>
         <meta name="description" content="Our commercial mobile tyre fitting provides and fits high quality cheap tyres for your van, at your convenience."/>
-        <link rel="canonical" href="">
+        <link rel="canonical" href="https://tyresgo.com/breakdown-recovery">
     </Head>
 
     <Container>
@@ -41,7 +41,7 @@
                 <div class="lg:grid grid-cols-12 gap-y-12 lg:gap-x-4 lg:space-y-0 space-y-12 lg:mt-8 mt-4">
                     <div class="col-span-12">
                         <p class="text-sm">
-                            At TyresAnywhere, we understand that unexpected vehicle breakdowns can be stressful and inconvenient.
+                            At Tyres GO, we understand that unexpected vehicle breakdowns can be stressful and inconvenient.
                             That's why we're here to offer you reliable and efficient breakdown recovery services for your cars and vans.
                             Whether you're stranded on the side of the road or stuck in your driveway, our team of skilled professionals is ready to come to your aid.
                         </p>
@@ -51,12 +51,12 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                             </svg>
-                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a> for a prompt service</span>
+                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a> for a prompt service</span>
                         </p>
                     </div>
 
                     <div class="xl:col-span-8 col-span-7 lg:p-4">
-                        <h3 class="lg:text-3xl text-2xl">Why choose Tyres Anywhere?</h3>
+                        <h3 class="lg:text-3xl text-2xl">Why choose Tyres GO?</h3>
                         <ol class="text-sm space-y-3 mt-4">
                             <li>
                                 <b>Swift Response Time:</b>
@@ -96,7 +96,7 @@
                             <li>
                                 <b>Customer Satisfaction:</b>
                                 Customer satisfaction is at the core of our business.
-                                We strive to provide exceptional service, ensuring that each customer's experience with TyresAnywhere is a positive one.
+                                We strive to provide exceptional service, ensuring that each customer's experience with Tyres GO is a positive one.
                                 Don't just take our word for it—check out the glowing testimonials from our satisfied clients.
                             </li>
                         </ol>
@@ -115,7 +115,7 @@
                     <div class="col-span-12">
                         <p class="text-sm">
                             When it comes to breakdown recovery, you need a service you can trust.
-                            TyresAnywhere is your go-to partner for fast, reliable, and professional assistance.
+                            Tyres GO is your go-to partner for fast, reliable, and professional assistance.
                             Save our number in your contacts or bookmark our website, so you'll be prepared for any unexpected breakdowns.
                             Remember, we're just a phone call away, ready to help you get back on the road with minimal disruption.
                         </p>

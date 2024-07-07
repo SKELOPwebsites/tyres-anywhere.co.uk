@@ -1,6 +1,6 @@
 <template>
     <Head>
-        <title>Commercial Mobile Tyre Fitting | Van Mobile Tyre Fitting | Tyres Anywhere</title>
+        <title>Commercial Mobile Tyre Fitting | Van Mobile Tyre Fitting | Tyres GO</title>
         <meta name="description" content="Yes, we also do commercial &amp; van tyres alongside normal passenger tyres, fitted at your desired location on the same day of your call">
         <meta name="keywords" content="mobile tyre fitting, mobile tyre service, tyre fitted at home, emergency tyre service, emergency tyre fitting, roadside tyre fitter, roadside tyre service, tyre fitted at work, mobile tyre puncture repair, tyre puncture repair">
         <link rel="canonical" href="">
@@ -55,7 +55,7 @@
                                 <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                                 <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
                             </svg>
-                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07510691498">07510 691498</a> for a prompt service</span>
+                            <span>Need mobile tyre services ASAP?, please call us on <a class="text-blue-600 underline" href="tel:07442980101">07442 980101</a> for a prompt service</span>
                         </p>
                     </div>
                 </div>
